@@ -38,3 +38,30 @@ This repository is intended as a learning-focused, portfolio-ready Swift project
 1. Clone the repository:
    ```bash
    git clone https://github.com/neetaaman20-cloud/SmartHabitTracker.git
+   ##Open the project in Xcode:
+
+open SmartHabitTracker.xcodeproj
+Select an iPhone simulator (e.g., iPhone 14 or 15).
+
+Press Run (▶) or Cmd + R.
+
+The app will launch in the iOS Simulator.
+How to Verify It Works
+
+Add a new habit using the + button
+
+Mark it as completed
+
+Observe streak updates
+
+Close and reopen the app to confirm data persistence
+
+###Future Improvements
+
+CoreData or CloudKit support
+
+Home Screen widgets
+
+Haptic feedback
+
+Dark mode customization
